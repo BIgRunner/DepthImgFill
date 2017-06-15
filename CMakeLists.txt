@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(cv_bridge_use)
+project(fill_depth_img)
 
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
